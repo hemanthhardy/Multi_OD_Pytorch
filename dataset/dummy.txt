@@ -1,7 +1,8 @@
-# where test, train folders will be placed
+# where test, train folders and 1 CSV file will be placed
 
-inside this two folders.. each image has 1 .xml file with same name.
-
+1) inside this two folders.. each image has 1 .xml file with same name.
+2) in id. csv, should give ids for the classes.
+ 
 folder structure:
 dataset:
    ->train:
@@ -18,3 +19,4 @@ dataset:
         ->2222.xml
         ...
         ...
+   ->id.csv:
