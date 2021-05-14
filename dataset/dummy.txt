@@ -1,0 +1,20 @@
+# where test, train folders will be placed
+
+inside this two folders.. each image has 1 .xml file with same name.
+
+folder structure:
+dataset:
+   ->train:
+        ->111.jpg
+        ->111.xml
+        ->222.jpg
+        ->222.xml
+        ...
+        ...
+   ->test:
+        ->1111.jpg
+        ->1111.xml
+        ->2222.jpg
+        ->2222.xml
+        ...
+        ...
