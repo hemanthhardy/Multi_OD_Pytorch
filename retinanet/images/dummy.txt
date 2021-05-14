@@ -1,0 +1,1 @@
+# where after model trained, the images under prediction is placed here.
